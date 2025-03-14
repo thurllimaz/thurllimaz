@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Eu sou Arthur moro Fortaleza Ceará<br><br>- 🔭 em procura de estagiário em front end<br>- 📚 Estudo Javascript</p>
+<p align="left">Eu sou Arthur moro Fortaleza Ceará<br><br>- 🔭 em procura de estágio em front end<br>- 📚 Estudo Javascript</p>
 
 ###
 
