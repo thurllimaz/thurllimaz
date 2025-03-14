@@ -20,15 +20,15 @@
 
 ###
 
-<h3 align="left">👨🏼‍💻  About Me 🖖🏼</h3>
+<h3 align="left">👨🏼‍💻  Sobre mim 🖖🏼</h3>
 
 ###
 
-<p align="left">I'm Arthur from Fortaleza Ceará<br><br>- 🔭 I’m working as estagiário em front end<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I costumo ler livros e ver filmes</p>
+<p align="left">Eu sou Arthur moro Fortaleza Ceará<br><br>- 🔭 em procura de estagiário em front end<br>- 📚 Estudo Javascript</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meus status :</h3>
 
 ###
 
